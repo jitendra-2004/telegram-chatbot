@@ -107,4 +107,4 @@ This project is licensed under the MIT License. Feel free to use, fork, and enha
 
 - GitHub: [jitendra-2004](https://github.com/jitendra-2004)
 - LinkedIn: [www.linkedin.com/in/jitendra-bairwa-039a3a357]
-- Telegram Bot: [t.me/NewTestingJeetBot]
+- Telegram Bot: [https://web.telegram.org/a/#8014342243]
